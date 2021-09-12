@@ -1,3 +1,1 @@
-This Pull Request was created by Dmitry Gamanuk new
-This Pull Request was created by Katya Tutskaya new
-This Pull Request was created by Kateryna Koval new
+This PR created by {Replace to your name and surname}
